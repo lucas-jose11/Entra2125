@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = 0;
+            while (n < 5)
+            {
+                n++;
+            }
+
+            Console.WriteLine(n);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\bin\Debug\net7.0\ParaPrimeiroRepositorio.exe
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\bin\Debug\net7.0\ParaPrimeiroRepositorio.deps.json
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\bin\Debug\net7.0\ParaPrimeiroRepositorio.runtimeconfig.json
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\bin\Debug\net7.0\ParaPrimeiroRepositorio.dll
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\bin\Debug\net7.0\ParaPrimeiroRepositorio.pdb
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.csproj.AssemblyReference.cache
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.AssemblyInfoInputs.cache
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.AssemblyInfo.cs
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.dll
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\refint\ParaPrimeiroRepositorio.dll
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.pdb
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ParaPrimeiroRepositorio.genruntimeconfig.cache
+C:\Users\lucas.silva79\source\repos\ParaPrimeiroRepositorio\ParaPrimeiroRepositorio\obj\Debug\net7.0\ref\ParaPrimeiroRepositorio.dll
